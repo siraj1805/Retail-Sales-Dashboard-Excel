@@ -31,7 +31,7 @@ This project involves building a fully interactive Excel dashboard to analyze sa
 ## 🧠 Key Insights
 
 - West region generated the highest revenue
-- Technology category had the best profit margins
+- Office Supplies category had the best profit margins
 - Sales peak in Q4 suggests seasonal trends
 
 ## 💡 Skills Demonstrated
